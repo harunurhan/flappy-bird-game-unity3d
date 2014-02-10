@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CameraController.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="75" Column="40" />
+      <File FileName="Assets/GenerateWorld.cs" Line="12" Column="17" />
+      <File FileName="Assets/CameraController.cs" Line="10" Column="3" />
+      <File FileName="../flart/Assets/Scripts/PlayerController.cs" Line="55" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
